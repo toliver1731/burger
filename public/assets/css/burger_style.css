@@ -1,0 +1,19 @@
+
+* {
+	text-align: center;
+}
+body {
+	background-color: rgb(255,214,0);
+}
+
+.jumbotron {
+	background-color: #bf1b17;
+	color: white;
+	text-align: center;
+	clear: left;
+}
+
+
+h3 {
+	color: white;
+}
